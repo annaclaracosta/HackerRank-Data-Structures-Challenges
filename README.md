@@ -1,2 +1,2 @@
-# HackerRank-Data-Structures-Challenges
+# HackerRank Data Structures Challenges
 My solutions for HackerRank Data Structures Challenge
